@@ -1,4 +1,4 @@
-#divClass > h1 {
+.divClass > h1 {
     color: blue;
 }
 
@@ -7,13 +7,15 @@
 }
 
 #thirdDiv {
-    justify-content:center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     height: 600px;
     width: 500px;
     background-color: chocolate;
     padding: 50px;
     border: 1px solid black;
-    display: flex;
 }
 
 #spanID {
@@ -21,8 +23,8 @@
     margin: 50px;
 }
 
-#divClass {
+.divClass {
     display: flex;
-    justify-content:center;
-    text-align: center;
+    flex-direction: column;
+    align-items: center;
 }

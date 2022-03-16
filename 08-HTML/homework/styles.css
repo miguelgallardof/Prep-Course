@@ -12,6 +12,8 @@
     background-color: chocolate;
     padding: 50px;
     border: 1px solid black;
+    display: flex;
+    justify-content:center;
 }
 
 #spanID {
@@ -21,8 +23,5 @@
 
 #divClass {
     display: flex;
-    justify-content: center;
-    flex-direction: column;
-    
-    
+    justify-content:center;
 }

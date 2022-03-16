@@ -7,13 +7,13 @@
 }
 
 #thirdDiv {
+    justify-content:center;
     height: 600px;
     width: 500px;
     background-color: chocolate;
     padding: 50px;
     border: 1px solid black;
     display: flex;
-    justify-content:center;
 }
 
 #spanID {

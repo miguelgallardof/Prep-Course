@@ -1,0 +1,11 @@
+- For
+Es un bucle que se repite un número de veces especificado, es un contador.
+
+- &&
+Significa "y", es decir una condición adicional. Es decir, se deben de cumplir las dos o más condiciones.
+
+- ||
+Significa "o", es decir se cumple esa u otra condición que se tenga. Es decir con que se debe de cumplir al menos una condición.
+
+- !
+Significa que no es igual a un valor.

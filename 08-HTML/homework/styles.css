@@ -1,30 +1,30 @@
 .divClass > h1 {
-    color: blue;
+  color: blue;
 }
 
 #thirdDiv > img {
-    width: 400px;
+  width: 400px;
 }
 
 #thirdDiv {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    height: 600px;
-    width: 500px;
-    background-color: chocolate;
-    padding: 50px;
-    border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 600px;
+  width: 500px;
+  background-color: chocolate;
+  padding: 50px;
+  border: 1px solid black;
 }
 
 #spanID {
-    font-size: 18px;
-    margin: 50px;
+  font-size: 18px;
+  margin: 50px;
 }
 
-.divClass {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+#container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

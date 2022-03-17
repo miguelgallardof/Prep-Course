@@ -1,15 +1,15 @@
 #header {
-    display: flex;
-    justify-content: center;
-    font-size: 24;
-    color:darkcyan;
+  display: flex;
+  justify-content: center;
+  font-size: 26;
+  color: darkcyan;
 }
 
-#container { 
-    font-size: 18;
-    color:darkslategray;
+#container {
+  font-size: 18;
+  color: darkslategray;
 }
 
-#container>img {
-    width: 400px;
+#container > img {
+  width: 300px;
 }

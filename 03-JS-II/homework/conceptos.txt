@@ -2,10 +2,10 @@
 Es un bucle que se repite un número de veces especificado, es un contador.
 
 - &&
-Significa "y" "and", es decir una condición adicional. Es decir, se deben de cumplir las dos o más condiciones.
+Significa "y" "and", significa que es una condición adicional. Es decir, se deben de cumplir las dos o más condiciones.
 
 - ||
-Significa "o" "or", es decir se cumple esa u otra condición que se tenga. Es decir con que se debe de cumplir al menos una condición.
+Significa "o" "or", significa que se cumple esa u otra condición que se tenga. Es decir, se debe de cumplir al menos una de las condiciones que tenga.
 
 - !
 Significa que no es igual a un valor.

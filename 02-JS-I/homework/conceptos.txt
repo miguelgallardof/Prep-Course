@@ -1,7 +1,6 @@
 - Variables
 Es una especie de "contenedor" al que le ponemos un nombre y que nos sirve para guardar un valor. Este valor puede ser cualquier tipo de dato (números, letras, booleans, etc).
 
-
 - Strings
 Es un objeto para representar y manipular una cadena de caracteres.
 

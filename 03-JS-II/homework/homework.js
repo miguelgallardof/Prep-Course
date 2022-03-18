@@ -185,12 +185,12 @@ function tablaDelSeis() {
 function tieneTresDigitos(numero) {
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
   //Escribe tu código aquí
-  //return numero > 99 && numero < 1000;
   let num = numero.toString();
   if (num.length === 3) {
     return true;
   }
   return false;
+  //return numero > 99 && numero < 1000;
 }
 
 function doWhile(numero) {

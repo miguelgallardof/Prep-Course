@@ -124,8 +124,8 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return num * num * num;
-  //return num ** 3;
+  return num ** 3;
+  //return num * num * num;
 }
 
 function elevar(num, exponent) {

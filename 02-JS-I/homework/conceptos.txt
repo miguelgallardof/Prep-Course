@@ -13,4 +13,4 @@ Return es la finalización de ejecución de la función y es la que da el result
 Sirve para validar si una condición específica es verdadera. Si es falsa, da otro resultado.
 
 - Valores booleanos (`true`, `false`)
-Es para comparar sus dos valores true = verdadero, false = falso.
+Es para comparar sus dos valores true es verdadero y false es falso.

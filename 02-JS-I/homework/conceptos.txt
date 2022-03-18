@@ -1,5 +1,5 @@
 - Variables
-Es una especie de “contenedor” al que le ponemos un nombre y que nos sirve para guardar un valor. Este valor puede ser cualquier tipo de dato (números, letras, booleans, etc).
+Es una especie de contenedor al que le ponemos un nombre y que nos sirve para guardar un valor. Este valor puede ser cualquier tipo de dato (números, letras, booleans, etc).
 
 
 - Strings

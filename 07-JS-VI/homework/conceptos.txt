@@ -1,0 +1,2 @@
+- Callback
+Es una función que llama a otra función de forma interna.

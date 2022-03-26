@@ -1,0 +1,17 @@
+- `prototype`
+Es una propiedad que permite agregar nuevas propiedades a los objetos.
+
+- _Constructors_ (de Clases)
+Es como una plantilla para la creación de objetos, con un modelo definido, pero con distintas propiedades.
+
+
+Car('audi', 1500, 'negro').bind(objeto) 
+// bind, el this de la función CAR tiene que ser objeto.
+
+T || T = T
+T || F = F
+F || T = T
+F || F = F
+
+si a es true => a
+si a es false => b

@@ -1,0 +1,36 @@
+- Objetos
+Es un ente que puede tener varias propiedades.
+
+- Propiedades
+Es la unión del nombre o clave que tengan un valor (string, numérico, función, etc).
+
+- Métodos
+Es una función que es la propiedad de un objeto.
+
+- Bucle `for…in`
+Recorre todas las propiedades que sean numerables.
+
+- Notación de puntos vs notación de corchetes
+* Notación de puntos: es una forma más fácil de escribir y leer. Además, poder ingresar a las propiedades. Es un poco limitado.
+
+* Notación de corchetes: es para traer datos de manera dinámica. Es decir, que contienen valores que podrían cambiarse luego, así como valores no válidos. Sirve para recorrer un objeto y se pueden hacer más cosas.
+
+- This
+
+Ejemplo:
+
+function saludar(){
+    console.log("Hola " + this.nombre);
+}
+
+var miguel = {
+    nombre = 'Miguel',
+    saludar: saludar,
+}
+
+var martin = {
+    nombre = 'Milagros',
+    saludar: saludar,
+}
+
+console.log(miguel.saludar());

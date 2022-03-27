@@ -28,7 +28,7 @@ var miguel = {
     saludar: saludar,
 }
 
-var martin = {
+var milagros = {
     nombre = 'Milagros',
     saludar: saludar,
 }
